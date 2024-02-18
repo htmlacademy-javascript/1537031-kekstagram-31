@@ -20,4 +20,3 @@ const isPalindrome = (str) => {
 
 isPalindrome('топот');
 isPalindrome('ДовОд');
-isPalindrome('Кекс');
