@@ -1,6 +1,4 @@
-const isStringShorter = (str, maxLength) => {
-  return str.length <= maxLength;
-};
+const isStringShorter = (str, maxLength) => str.length <= maxLength;
 
 isStringShorter('проверяемая строка', 20);
 isStringShorter('проверяемая строка', 18);
